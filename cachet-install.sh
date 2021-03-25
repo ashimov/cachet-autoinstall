@@ -3,7 +3,7 @@
 apt -y install sudo
 
 # Enter your timezone here
-sudo timedatectl set-timezone 'Europe/Berlin'
+sudo timedatectl set-timezone 'Asia/Almaty'
 
 sudo apt update && sudo apt upgrade -y
 
